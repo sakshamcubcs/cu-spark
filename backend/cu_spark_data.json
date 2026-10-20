@@ -1,0 +1,187 @@
+{
+  "users": [
+    {
+      "id": "cu_user_1",
+      "email": "rohit.22bcs1044@cuchd.in",
+      "name": "Rohit Sharma",
+      "age": 21,
+      "gender": "male",
+      "interestedIn": "female",
+      "rollNumber": "22BCS1044",
+      "department": "B.Tech Computer Science (CSE)",
+      "year": "3rd Year",
+      "block": "Academic Block 3 (North Campus)",
+      "bio": "Building cool tech by day, playing guitar at CU Amphitheatre by evening. Always up for chai at Gate 2 or road trips to Kasauli! ☕🎸",
+      "interests": [
+        "Coding",
+        "Guitar",
+        "Kasauli Road Trips",
+        "Hostel Maggi",
+        "Gym & Fitness",
+        "Anime"
+      ],
+      "photos": [
+        "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&auto=format&fit=crop&q=80"
+      ],
+      "verified": true,
+      "createdAt": "2026-10-20T19:44:49.238Z"
+    },
+    {
+      "id": "cu_user_2",
+      "email": "ananya.22bba309@cumail.in",
+      "name": "Ananya Kapoor",
+      "age": 20,
+      "gender": "female",
+      "interestedIn": "male",
+      "rollNumber": "22BBA309",
+      "department": "BBA (Apex Institute)",
+      "year": "2nd Year",
+      "block": "Block B (South Campus)",
+      "bio": "Obsessed with Chandigarh cafe hunting, Bollywood dance society, and late night hostel talks. Let's debate who makes the best iced latte in Sector 17! 🍰✨",
+      "interests": [
+        "Chandigarh Cafes",
+        "Bhangra",
+        "Bollywood",
+        "Photography",
+        "Travel",
+        "Fashion"
+      ],
+      "photos": [
+        "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=600&auto=format&fit=crop&q=80"
+      ],
+      "verified": true,
+      "createdAt": "2026-10-20T19:44:49.238Z"
+    },
+    {
+      "id": "cu_user_3",
+      "email": "arjun.21bai402@cuchd.in",
+      "name": "Arjun Verma",
+      "age": 22,
+      "gender": "male",
+      "interestedIn": "female",
+      "rollNumber": "21BAI402",
+      "department": "B.Tech AI & Data Science",
+      "year": "4th Year",
+      "block": "Academic Block 1",
+      "bio": "Training neural nets and training in the gym. Looking for someone to explore Sukhna Lake sunsets with or chill at the CU Food Court. 🤖🏋️‍♂️",
+      "interests": [
+        "AI & Tech",
+        "Gym & Fitness",
+        "Sukhna Lake",
+        "Gaming",
+        "Sci-Fi",
+        "Chandigarh Cafes"
+      ],
+      "photos": [
+        "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?w=600&auto=format&fit=crop&q=80"
+      ],
+      "verified": true,
+      "createdAt": "2026-10-20T19:44:49.238Z"
+    },
+    {
+      "id": "cu_user_4",
+      "email": "simran.23blaw115@cumail.in",
+      "name": "Simran Kaur",
+      "age": 20,
+      "gender": "female",
+      "interestedIn": "male",
+      "rollNumber": "23BLAW115",
+      "department": "B.A. LL.B (Legal Studies)",
+      "year": "2nd Year",
+      "block": "Block C (Law Wing)",
+      "bio": "Moot court champion, amateur poet, and full-time tea lover. If you can make me laugh during exam week, you've already won! ⚖️📖☕",
+      "interests": [
+        "Debate & Law",
+        "Poetry",
+        "Hostel Maggi",
+        "Chandigarh Cafes",
+        "Music",
+        "Road Trips"
+      ],
+      "photos": [
+        "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=600&auto=format&fit=crop&q=80"
+      ],
+      "verified": true,
+      "createdAt": "2026-10-20T19:44:49.238Z"
+    },
+    {
+      "id": "cu_user_5",
+      "email": "tanya.22bdes501@cuchd.in",
+      "name": "Tanya Malhotra",
+      "age": 21,
+      "gender": "female",
+      "interestedIn": "everyone",
+      "rollNumber": "22BDES501",
+      "department": "Bachelor of Design (UI/UX)",
+      "year": "3rd Year",
+      "block": "Design Block North",
+      "bio": "Always sketching UI concepts or taking polaroids around campus. Let's grab cold coffee from Nescafe and talk about design, music & life! 🎨☕",
+      "interests": [
+        "Design & Art",
+        "Photography",
+        "Chandigarh Cafes",
+        "Indie Music",
+        "Gaming",
+        "Coding"
+      ],
+      "photos": [
+        "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?w=600&auto=format&fit=crop&q=80"
+      ],
+      "verified": true,
+      "createdAt": "2026-10-20T19:44:49.238Z"
+    }
+  ],
+  "swipes": [
+    {
+      "id": "sw_1",
+      "fromUserId": "cu_user_1",
+      "toUserId": "cu_user_2",
+      "type": "like",
+      "createdAt": "2026-10-20T19:44:49.238Z"
+    },
+    {
+      "id": "sw_2",
+      "fromUserId": "cu_user_2",
+      "toUserId": "cu_user_1",
+      "type": "like",
+      "createdAt": "2026-10-20T19:44:49.238Z"
+    },
+    {
+      "id": "sw_1792525973529_uj0tj",
+      "fromUserId": "cu_user_1",
+      "toUserId": "cu_user_4",
+      "type": "like",
+      "createdAt": "2026-10-20T19:52:53.529Z"
+    },
+    {
+      "id": "sw_1792525973544_fgeg7",
+      "fromUserId": "cu_user_4",
+      "toUserId": "cu_user_1",
+      "type": "like",
+      "createdAt": "2026-10-20T19:52:53.544Z"
+    }
+  ],
+  "matches": [
+    {
+      "id": "match_cu1_cu2",
+      "user1Id": "cu_user_1",
+      "user2Id": "cu_user_2",
+      "matchedAt": "2026-10-20T19:44:49.238Z",
+      "encryptionKeySeed": "cu_e2ee_secret_key_seed_cu1_cu2"
+    },
+    {
+      "id": "match_1792525973544_adptvd",
+      "user1Id": "cu_user_4",
+      "user2Id": "cu_user_1",
+      "matchedAt": "2026-10-20T19:52:53.544Z",
+      "encryptionKeySeed": "seed_c9p8jbp0fia_1792525973544"
+    }
+  ],
+  "messages": [],
+  "otps": {}
+}
